@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922910966872",
+    "firebase_url": "https://bankpick-1a20b-default-rtdb.firebaseio.com",
+    "project_id": "bankpick-1a20b",
+    "storage_bucket": "bankpick-1a20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922910966872:android:f180e197d7cfb8deea762d",
+        "android_client_info": {
+          "package_name": "com.example.bank_pick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHT1KXU9epnO7BSpTgoRsj1Fiw5U9Zlo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
